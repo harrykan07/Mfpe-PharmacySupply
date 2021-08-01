@@ -105,6 +105,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>pharmacy-supply</finalName>
 	</build>
 
 </project>
